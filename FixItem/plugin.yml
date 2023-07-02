@@ -1,0 +1,12 @@
+name: FixItem
+api: 5.0.0
+version: 1.0.0
+author: KiritoTvT
+main: Ki\FixItem
+commands:
+  fix:
+    description: "Sửa Chữa Item Trên Tay"
+    permission: fix.cmd
+permissions:
+  fix.cmd:
+    default: true
